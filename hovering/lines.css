@@ -1,0 +1,171 @@
+.p1{
+	text-align: center;
+	font-size: 25px;
+}
+.hrtable{
+	height: 3px;
+	background: black;
+}
+td>a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+.circles{
+	text-decoration: underline;
+}
+.menu{
+	margin-left: 1000px;
+}
+.menutable{
+	border-spacing: 10px;
+}
+.hrtable{
+	height: 3px;
+	background: black;
+}
+.hr1{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	margin-left: 90px;
+	background: cornsilk;
+	transition: 1s height, 1s background; 
+	border: 2px solid black;
+}
+.hr1:hover{
+	height: 25px;
+	background: crimson;
+}
+.hr2{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	background: lightsalmon;
+	margin-left: 50px;
+	transition: 1s border, 1s background;
+}
+.hr2:hover{
+	border: 10px solid black;
+	background: #800080;
+}
+.hr3{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	margin-left: 50px;
+	border: 2px solid black;
+	background: rgb(255,69,0);
+	transition: 1s border, 1s height, 1s width;
+}
+.hr3:hover{
+	border: 10px solid black;
+	height: 25px;
+	width: 150px;
+}
+.hr4{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	background: aquamarine;
+	transition: 1s background, 1s height;
+	margin-left: 250px;
+}
+.hr4:hover{
+	background: #FFE4E1;
+	height: 25px;
+}
+.hr5{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	background: lightpink;
+	transition: 1s border, 1s background;
+	margin-left: 50px;
+}
+.hr5:hover{
+	border: 10px solid black;
+	background: magenta;
+}
+.hr6{
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	transition: 1s border,1s background, 1s height, 1s width;
+	background: mediumspringgreen;
+	margin-left: 450px;
+}
+.hr6:hover{
+	border: 10px solid fuchsia;
+	background: powderblue;
+	height: 25px;
+	width: 150px;
+}
+.hr7{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	background: salmon;
+	transition: 1s background, 1s height;
+	margin-left: 250px;
+}
+.hr7:hover{
+	height: 25px;
+	background: yellow;
+}
+.hr8{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	margin-left: 50px;
+	background: crimson;
+	transition: 1s height, 1s border;
+}
+.hr8:hover{
+	height: 25px;
+	border: 25px solid black;
+}
+.hr9{
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	background: fuchsia;
+	transition: 1s background, 1s height;
+	margin-left: 90px;
+	display: inline-block;
+}
+.hr9:hover{
+	background: aqua;
+	height: 25px;
+}
+.hr10{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	margin-left: 50px;
+	background: teal;
+	transition: 1s width, 1s height;
+}
+.hr10:hover{
+	width: 250px;
+	height: 25px;
+}
+.hr11{
+	display: inline-block;
+	height: 15px;
+	width: 300px;
+	border: 2px solid black;
+	margin-left: 50px;
+	background: lightyellow;
+	transition: 1s background, 1s border;
+}
+.hr11:hover{
+	background: hotpink;
+	border: 20px solid black;
+}

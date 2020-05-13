@@ -1,0 +1,67 @@
+.p1{
+	text-align: center;
+	font-size: 25px;
+}
+.hr1{
+	height: 3px;
+	background: black;
+}
+td>a{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+.circles{
+	text-decoration: underline;
+}
+.menu{
+	margin-left: 1000px;
+}
+.menutable{
+	border-spacing: 10px;
+}
+.hr1{
+	height: 3px;
+	background: black;
+}
+.sq1{
+	height: 150px;
+	width: 150px;
+	border: 2px solid black;
+	background: teal;
+	transition: 1s background, 1s border;
+	margin-left: 90px;
+	display: inline-block;
+	padding: 5px;
+}
+.sq1:hover{
+	background: hotpink;
+	border: 10px solid black;
+}
+.sq2{
+	height: 150px;
+	width: 150px;
+	border: 2px solid black;
+	margin-left: 350px;
+	background: #ffff80;
+	display: inline-block;
+	transition: 1s background, 1s border;
+	padding: 5px;
+}
+.sq2:hover{
+	border: 20px solid black;
+	background: aqua;
+}
+.sq3{
+	height: 150px;
+	width: 150px;
+	border: 2px solid black;
+	margin-left: 350px;
+	background: fuchsia;
+	display: inline-block;
+	transition: 1s background, height;
+}
+sq3:hover{
+	background: yellow;
+	height: 300px;
+}
